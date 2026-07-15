@@ -1,4 +1,4 @@
-Meta.DisplayName=The Isle (EVRIMA) [Mecistios]
+Meta.DisplayName=The Isle (EVRIMA)
 Meta.Description=The Isle (EVRIMA) Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -16,7 +16,7 @@ Meta.Prerequisites=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.ConfigVersion=1.5
 Meta.AppConfigId=afee5112-2e4f-4328-a669-0b705e412541
-App.DisplayName=The Isle (EVRIMA) [Mecistios]
+App.DisplayName=The Isle (EVRIMA)
 App.RootDir=./theisle/
 App.BaseDirectory=./theisle/412680/
 App.ExecutableWin=412680/TheIsle/Binaries/Win64/TheIsleServer-Win64-Shipping.exe
